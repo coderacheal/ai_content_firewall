@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Endless_puzzles" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" viewBox="0 0 500 500" style="enable-background:new 0 0 500 500;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#41BF2E;}
+	.st1{fill:#006AAC;}
+	.st2{fill:#FDEC00;}
+</style>
+<g>
+	<path class="st0" d="M250,374.8H125v-125H16c-8.8,0-16,7.2-16,16v218c0,8.8,7.2,16,16,16h359v-125H250z"/>
+	<path class="st1" d="M359-0.2h-93c-8.8,0-16,7.2-16,16v109H141c-8.8,0-16,7.2-16,16v234h125v-125h125v-234C375,7,367.8-0.2,359-0.2
+		z"/>
+	<path class="st2" d="M484,124.8H375v125H250v125h125v125h109c8.8,0,16-7.2,16-16v-343C500,132,492.8,124.8,484,124.8z"/>
+</g>
+</svg>
