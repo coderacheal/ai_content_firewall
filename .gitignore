@@ -1,0 +1,6 @@
+/virtual
+__pycache__
+/Dataset
+# /extracted_frames
+/preprocessed_images
+/notebook/preprocessed_images
