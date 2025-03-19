@@ -1,5 +1,8 @@
 /virtual
 ml/__pycache__
 /ml/Dataset
+__pycache__
+/ml/models
+__pycache__ copy
 /ml/notebook/preprocessed_images
-/ml/utils/preprocessed_images
+/utils/preprocessed_images
